@@ -1,5 +1,8 @@
 Body{
-    background-color:brown;
+    background-color:darkblue;
+}
+Body{
+    background-color:darkred;
 }
 h1{
     color:beige;
@@ -15,3 +18,14 @@ h1{
 img{
     margin-left: 75px;
 }
+.div{
+margin:5px;
+padding:5px;
+border:2px solid black;
+background:orange;
+}
+
+
+
+
+
